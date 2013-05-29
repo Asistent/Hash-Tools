@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Hash tools</string>
+    <string name="hello">
+	"On big hash it could take MUCH time to crack; your phone isnt that powerfull!
+	Result:"
+	</string>
+	<string name="crackit">Crack</string>
+	<string name="tomd5">Hash text</string>
+    <string name="stop">Interrupt</string>
+	<string name="selectfile">Compare with file</string>
+	<string name="change">Change hashing algorithm</string>
+
+</resources>
